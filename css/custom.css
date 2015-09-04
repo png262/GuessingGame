@@ -1,0 +1,12 @@
+ .center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.crazy {
+	font-size: larger;
+	font-weight: bold;
+	color: red;
+	text-transform: uppercase;
+}
